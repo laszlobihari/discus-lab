@@ -51,7 +51,11 @@ header h1 {
 }
 
 main {
-    margin-top: 105px;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
 
 #mother-container {
